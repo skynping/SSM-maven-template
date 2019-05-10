@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/commonparent/commonparent.iml" filepath="$PROJECT_DIR$/commonparent/commonparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonparent/test-dao/testdao.iml" filepath="$PROJECT_DIR$/commonparent/test-dao/testdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonparent/testservice/testservice.iml" filepath="$PROJECT_DIR$/commonparent/testservice/testservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonparent/testweb/testweb.iml" filepath="$PROJECT_DIR$/commonparent/testweb/testweb.iml" />
+    </modules>
+  </component>
+</project>

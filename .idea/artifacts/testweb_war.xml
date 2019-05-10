@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="testweb:war">
+    <output-path>$PROJECT_DIR$/commonparent/testweb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>testweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SDuian.war">
+      <element id="artifact" artifact-name="testweb:war exploded" />
+    </root>
+  </artifact>
+</component>
